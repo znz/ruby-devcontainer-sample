@@ -20,7 +20,8 @@
       "extensions": [
         "editorconfig.editorconfig",
         "koichisasada.ruby-rstfilter",
-        "koichisasada.vscode-rdbg"
+        "koichisasada.vscode-rdbg",
+        "hediet.debug-visualizer"
       ]
     }
   }

@@ -19,9 +19,9 @@
     "vscode": {
       "extensions": [
         "editorconfig.editorconfig",
+        "hediet.debug-visualizer",
         "koichisasada.ruby-rstfilter",
-        "koichisasada.vscode-rdbg",
-        "hediet.debug-visualizer"
+        "koichisasada.vscode-rdbg"
       ]
     }
   }

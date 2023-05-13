@@ -12,7 +12,7 @@
   // "forwardPorts": [],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "gem install debug test-unit && gem install rstfilter",
+  "postCreateCommand": "gem install debug test-unit && gem install rstfilter debugvisualizer",
 
   // Configure tool-specific properties.
   "customizations": {
